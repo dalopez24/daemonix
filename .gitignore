@@ -1,0 +1,53 @@
+# Dependencias
+node_modules/
+package-lock.json
+
+# Archivos de compilación
+/dist
+/build
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de entorno
+.env
+.env.local
+.env.*.local
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea_modules/
+
+# Archivos de Visual Studio Code (por si acaso)
+.vscode/
+
+# Archivos temporales
+*.tmp
+*.temp
+*.swp
+*~
+
+# Archivos de cobertura de tests
+coverage/
+
+# Archivos de TypeScript
+*.tsbuildinfo
+
+# Otros
+*.pid
+*.seed
+*.pid.lock
+.npm
+.eslintcache
+.node_repl_history
