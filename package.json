@@ -8,8 +8,8 @@
     "prepublishOnly": "npm run build",
     "test": "jest"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["cluster", "daemonix", "typescript", "node"],
+  "author": "Daniel Lopez",
   "license": "ISC",
   "description": "A daemon manager for node js applications",
   "devDependencies": {
