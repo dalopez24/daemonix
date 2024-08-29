@@ -1,5 +1,5 @@
 {
-  "name": "daemonix",
+  "name": "da-daemonix",
   "version": "1.0.0",
   "main": "dist/daemonix.js",
   "types": "dist/daemonix.d.ts",
