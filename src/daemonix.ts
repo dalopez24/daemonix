@@ -1,6 +1,6 @@
-import cluster from 'cluster';
 import * as os from 'os';
 import { WorkersConfig } from './types';
+import cluster from 'cluster';
 
 export interface DaemonixConfig {
   app: () => Promise<void>;
